@@ -1,1 +1,5 @@
-one large program witout any function
+send_otp()
+
+generate_otp()
+
+validate_email()
